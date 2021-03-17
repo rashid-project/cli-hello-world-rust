@@ -1,3 +1,3 @@
 # CLI Hello World - Rust
 
-Rust implementation of the CLI Hello World spec
+Rust implementation of the Hello World CLI spec
